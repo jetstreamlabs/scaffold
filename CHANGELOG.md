@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.2](https://github.com/jetstreamlabs/scaffold/compare/v1.0.1...v1.0.2) (2022-01-31)
+
+
+### Bug Fixes
+
+* add composer details ([ca08e25](https://github.com/jetstreamlabs/scaffold/commit/ca08e25acc0f35836ed18f5a432efd32c571cef8))
+
 ## [1.0.1](https://github.com/jetstreamlabs/scaffold/compare/v1.0.0...v1.0.1) (2022-01-31)
 
 
