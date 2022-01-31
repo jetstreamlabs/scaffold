@@ -1,7 +1,11 @@
 {
-  "name": "jetstreamlabs/scaffold",
-	"description": "",
-	"keywords": [],
+	"name": "jetstreamlabs/scaffold",
+	"description": "Best practices project or web app scaffold.",
+	"keywords": [
+		"semantic-release",
+		"commitlint",
+		"best practices"
+	],
 	"license": "MIT",
 	"authors": [
 		{
@@ -9,10 +13,10 @@
 			"email": "secondman@jetstreamlabs.com"
 		}
 	],
-  "require": {
+	"require": {
 		"php": "^8.0"
-  },
-  "require-dev": {
+	},
+	"require-dev": {
 		"styleci/cli": "^1.2"
 	},
 	"autoload": {
@@ -24,7 +28,7 @@
 			"Tests\\": "tests/"
 		}
 	},
-  "config": {
+	"config": {
 		"sort-packages": true,
 		"preferred-install": "dist",
 		"optimize-autoloader": true
