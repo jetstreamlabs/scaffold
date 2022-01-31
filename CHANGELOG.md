@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.1](https://github.com/jetstreamlabs/scaffold/compare/v1.0.0...v1.0.1) (2022-01-31)
+
+
+### Bug Fixes
+
+* add readme file ([16dd593](https://github.com/jetstreamlabs/scaffold/commit/16dd59307b86e9ed95061b1521caccad165df8da))
+
 # 1.0.0 (2022-01-31)
 
 
